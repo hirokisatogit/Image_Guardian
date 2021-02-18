@@ -44,8 +44,15 @@ You need to install Metamask in your browser and connect it to your virtual netw
 
 Start Ganache and connect the Ganache blockchain to Metamask.
 
-Image Guardian Issuer allows you to send a certificate using Metamask, specifying the name of the certificate, the number of certificates to be issued, and the destination.
-You can then check with the UserPage that has the Metamask with the address that was sent!
+On the Image Guardian Issuer Page, you can specify the name of the certificate, the number of certificates to be issued, the destination, and send the certificate using Metamask.
+You can then check the UserPage that has the Metamask with the address you sent it to!
+
+```
+
+# Purpose
+```
+
+I have created a platform that can issue certificates using NFT, thinking that blockchain technology can be used to prevent such things as academic fraud.
 
 ```
 
